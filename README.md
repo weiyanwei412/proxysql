@@ -248,4 +248,6 @@ Top-level sections:
 	)
 	```
 * top-level configuration item: `datadir`, as a string, to point to the data dir.
-
+```
+<a  HREF = “https://scan.coverity.com/projects/weiyanwei412-proxysql”> <IMG ALT = “ Coverity的扫描构建状态” SRC = “ https://scan.coverity.com/projects/16733/badge .svg “ /> </a>
+```
